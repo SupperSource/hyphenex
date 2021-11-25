@@ -1,5 +1,10 @@
 ## hyphenex
 
+<center>
+<img src="./hyphenex.png">
+</center>
+
+
 Separate words from a string and convert them into a single string using hyphens. work in progress.
 
 ### You can hyphenate and dehyphanate strings dynamically also!
