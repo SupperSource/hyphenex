@@ -1,0 +1,23 @@
+{
+  "name": "hyphenex",
+  "version": "1.0.0",
+  "description": "Hyphenizes a string with ease",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaidajani/hyphenex.git"
+  },
+  "keywords": [
+    "hyphen",
+    "javascript"
+  ],
+  "author": "zaidajani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zaidajani/hyphenex/issues"
+  },
+  "homepage": "https://github.com/zaidajani/hyphenex#readme"
+}
