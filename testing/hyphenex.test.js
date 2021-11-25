@@ -2,13 +2,13 @@ const hyphenex = require("../hyphenex");
 
 describe('Testing functions', () => {
   test("hyphenate this string", () => {
-    expect(hyphenex.hyphenate("hyphenate this beautiful string")).toBe(
-      "hyphenate-this-beautiful-string"
+    expect(hyphenex.hyphenate("hyphenate this string")).toBe(
+      "hyphenate-this-string"
     );
   });
   test("dehyphenate this string", () => {
-    expect(hyphenex.deHyphenate("hyphenate-this-beautiful-string")).toBe(
-      "hyphenate this beautiful string"
+    expect(hyphenex.deHyphenate("hyphenate-this-string")).toBe(
+      "hyphenate this string"
     );
   });
   test('Dynamically hyphenate this string', () => {
