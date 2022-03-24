@@ -54,7 +54,7 @@ Using this method you can hyphenate rather separate your strings with a custom s
 Example: 
 
 ```javascript
-hyphenex.hyphenateDynamically('This string will be hyphenated dynamically');
+hyphenex.hyphenateDynamically('This string will be hyphenated dynamically', "_");
 
 // The results must be 'This_string_will_be_hyphenated_dynamically'
 ```
