@@ -27,7 +27,7 @@ This-is-dehyphanted-string-which-is-phenomenal
 hyphenated this this that
 ```
 
-### pretty cool ha!
+### pretty cool huh?
 
 ## Documentation
 
